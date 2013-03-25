@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/layout_next"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+  
+       <include layout="@layout/choseplayer" />
+    </LinearLayout>
+    
+ 
+
+    <LinearLayout
+        android:id="@+id/layout_last"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+        
+          <include layout="@layout/choseplayer1" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_main"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/chosebg"
+        android:orientation="vertical" >
+
+        <include layout="@layout/bottom_button" />
+    </RelativeLayout>
+
+</FrameLayout>

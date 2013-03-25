@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+    
+    <ImageButton
+    	android:id="@+id/cancel"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_gravity="top|right"
+    	android:layout_marginTop="10dip"
+    	android:layout_marginRight="10dip"
+    	android:layout_marginBottom="10dip"
+    	android:src="@drawable/logo"
+    	android:background="#00000000"
+    />
+    <ScrollView  
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	>
+    <TextView  
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"   
+    	android:text="Welcome To Use《欣悦影音》！\n\n
+      现处《欣悦影音》的影视播放区域，以下是该影视播放区域的一些相关操作技巧介绍！\n\n	
+    					快捷操作技巧:\n\n
+    					全屏切换：\t双击屏幕\n\n
+    					播放/暂停：\t长按屏幕\n\n
+    					静音/恢复：\t长按音量按钮\n\n
+    					播放列表：\t控制面板最右边的按钮(目前暂不支持编辑功能)\n\n
+    					音量调节：\t单击音量按钮，在弹出的音量显示区域触摸改变音量\n\n"
+    					
+    	android:textSize="18dip"
+    	android:textColor="#99FFFFFF"
+    	android:autoLink="email|web"
+    	
+    />
+    </ScrollView>
+    
+    
+</LinearLayout>

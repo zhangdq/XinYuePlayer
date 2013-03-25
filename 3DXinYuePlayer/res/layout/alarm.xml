@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:text="       Dreamer开发团队隶属清远职业技术学院的信息科技系安卓应用软件开发的一个小团队，该团队共有三名队员。
+        程序+UI设计+项目负责：ShaoHan、策划+文案负责：WenRong、解析+美工负责：JiaHao"
+        android:textSize="15sp" />
+      
+</LinearLayout>

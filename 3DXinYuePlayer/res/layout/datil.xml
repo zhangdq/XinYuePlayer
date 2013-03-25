@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:text="      《欣悦影音》是一款灵巧便捷的视频及音乐播放器，支持播放多种音乐和视频文件。它使用手机设备上默认的解码器进行解码，从而保证播放的速度和效果。
+       该影音播放器由清远职业技术学院的信息科技系安卓应用软件开发团队Dreamer创作。"
+        android:textSize="15sp" />
+      
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">欣悦影音</string>
+    <string name="ok_button">确定</string>
+    <string name="exit_button">关闭快捷操作使用说明书</string>
+    <string name="about_title">About欣悦影音</string>
+    <string name="about_control">About操作说明</string>
+    <string name="search_name">请输入您要找的歌曲名或演唱者</string>
+    <string name="set_time">请输入睡眠时间的整分钟数(分)</string>
+    <string name="Search">搜索</string>
+    <string name="Yes">确定</string>
+    <string name="cancel">取消</string>
+    <string name="about_msg">感谢您使用欣悦影音播放器，该应用程序由清远职业技术学院信息科技系
+     Dreamer小组创作，目前版本为安卓系统2.2以上的欣悦影音1.0版本。</string> 
+    <string name="control_msg">Welcome To Use《快捷操作使用说明书》\n\n
+    					全屏切换：\t双击屏幕\n\n
+    					播放/暂停：\t长按屏幕\n\n
+    					静音/恢复：\t长按音量按钮\n\n
+    					播放列表：\t控制面板最右边的按钮(目前暂不支持编辑功能)\n\n
+    					音量调节：\t单击音量按钮，在弹出的音量显示区域触摸改变音量\n\n"</string>
+    <string name="path">/sdcard/test0.mp4</string>  
+</resources>
